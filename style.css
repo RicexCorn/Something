@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(1, 10, 32);
+}
+
+.bigbighead {
+    width: 3000px;
+    height: 3000px;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+#text1 {
+    color: white ;
+}
+
+#text2 {
+    color: white ;
+}
+
+
+.bighead {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.like {
+    width: 500px;
+    height: 500px;
+    border: 5px solid green;
+    border-radius: 20px;
+}
+
+.dislike {
+    width: 500px;
+    height: 500px;
+    border: 5px solid red;
+    border-radius: 20px;
+}
+
+#HEAD {
+    color: rgb(108, 177, 5);
+
+}
+
+#HEAD2 {
+    color: rgb(177, 5, 5);
+
+}
